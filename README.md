@@ -9,7 +9,7 @@ This repository is provided **solely for personal use and educational purposes**
 ## Setup & Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/insurance-web-scraper.git
+git clone https://github.com/prabhdeepgandhi/insurance-web-scraper.git
 cd insurance-web-scraper
 
 # Create a virtual environment
